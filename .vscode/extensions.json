@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "prettier.prettier-vscode",
+    "davidanson.vscode-markdownlint",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.vscode-python-envs",
+    "ms-python.black-formatter",
+    "ms-python.vscode-pylance",
+    "ms-python.isort",
+    "ms-python.mypy-type-checker",
+    "charliermarsh.ruff"
+  ]
+}
