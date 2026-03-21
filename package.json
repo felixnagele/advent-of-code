@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "My Advent of Code solutions",
+  "type": "module",
+  "scripts": {
+    "solve": "tsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixnagele/advent-of-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/felixnagele/advent-of-code#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
